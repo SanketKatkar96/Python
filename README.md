@@ -16,7 +16,7 @@ Automation
 Games
 
 ##2. Your First Python Program
-print("Hello World")
+~~~  print("Hello World")
 Output:
 Hello World
 Explanation:
@@ -29,4 +29,4 @@ print("My name is Sanket")
 
 Output:
 
-My name is Sanket
+My name is Sanket 
