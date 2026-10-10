@@ -17,20 +17,20 @@ Games
 
 ##2. Your First Python Program
 ~~~
-print("Hello World")
+"print("Hello World")"
 ~~~
 Output:
 ~~~
-Hello World
+ "Hello World"
 ~~~
 Explanation:
 ~~~
-print() is used to show something on the screen.
+"print() is used to show something on the screen"
 ~~~
 Example:
 
 ~~~
-print("My name is Sanket")
+"print("My name is Sanket")"
 ~~~
 Output:
 ~~~
