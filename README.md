@@ -15,9 +15,9 @@
 - Games
 
 ##2. Your First Python Program
-~~~
+
 "print("Hello World")"
-~~~
+
 Output:
 ~~~
  "Hello World"
