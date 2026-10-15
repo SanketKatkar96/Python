@@ -1,5 +1,6 @@
 # Python
 
+
 ## 1. What is Python?
 - Python is a programming language.
 
@@ -13,9 +14,9 @@
 - Games
 
 ##2. Your First Python Program
-
+~~~
 "print("Hello World")"
-
+~~~
 Output:
 ~~~
  "Hello World"
