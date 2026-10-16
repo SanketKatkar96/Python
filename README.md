@@ -15,11 +15,11 @@
 
 ##2. Your First Python Program
 ~~~
-"print("Hello World")"
+print("Hello World")
 ~~~
 Output:
 ~~~
- "Hello World"
+ Hello World
 ~~~
 Explanation:
 ~~~
