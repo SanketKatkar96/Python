@@ -4,7 +4,7 @@ secret_number = random.randint (1, 100)
 attempts = 0
 
 print( "=== Number Gussing Game ===")
-print("Now you selected a Number Between 1 to 100.")
+print("Now You Select a Number Between 1 to 100.")
 
 while True:
     guess = int(input("Enter Your guees:"))
