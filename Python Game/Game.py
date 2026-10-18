@@ -1,5 +1,4 @@
 import random 
-
 secret_number = random.randint (1, 100)
 attempts = 0
 
@@ -18,3 +17,12 @@ while True:
         print("You guessed the correct number .")
         print("Attempts:",attempts)
         break
+
+
+
+
+
+
+
+
+
