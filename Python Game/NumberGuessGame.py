@@ -18,11 +18,3 @@ while True:
         print("Attempts:",attempts)
         break
 
-
-
-
-
-
-
-
-
