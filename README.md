@@ -33,5 +33,4 @@ Output:
  My name is Sanket
 ~~~
 
-jijoijoihuigyufiytfy
-looij
+i
